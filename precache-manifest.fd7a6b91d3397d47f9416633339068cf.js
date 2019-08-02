@@ -1,31 +1,35 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "469199365bd57c0267b5d5c244f51f83",
+    "revision": "9c490cf2f8acac977520ecad7fca57f4",
     "url": "/index.html"
   },
   {
-    "revision": "9c66904bba2d1a2d5b57",
+    "revision": "9876541aee6f5e865987",
     "url": "/static/css/2.6a691d48.chunk.css"
   },
   {
-    "revision": "20241dac698c62d9294a",
-    "url": "/static/css/main.02b94187.chunk.css"
+    "revision": "b5f1c7ab6e9d051cb005",
+    "url": "/static/css/main.bbceea9b.chunk.css"
   },
   {
-    "revision": "9c66904bba2d1a2d5b57",
-    "url": "/static/js/2.f8f97b43.chunk.js"
+    "revision": "9876541aee6f5e865987",
+    "url": "/static/js/2.9cfb7c20.chunk.js"
   },
   {
-    "revision": "20241dac698c62d9294a",
-    "url": "/static/js/main.5987ff2d.chunk.js"
+    "revision": "b5f1c7ab6e9d051cb005",
+    "url": "/static/js/main.56119bb9.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
     "url": "/static/js/runtime~main.a8a9905a.js"
   },
   {
+    "revision": "33c3f89631694cbdd906cf855e08ea5a",
+    "url": "/static/media/head-shot.33c3f896.png"
+  },
+  {
     "revision": "64a8ee704ce91b7b5c31ac135f7ef077",
-    "url": "/static/media/Color-Image.64a8ee70.jpg"
+    "url": "/static/media/kate-and-i.64a8ee70.jpg"
   },
   {
     "revision": "253b7a2b3807f337f50e6398a6be49cd",
